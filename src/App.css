@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+
+.displaydiv{
+  border: 1px solid teal;
+  height: 60px;
+  width: 40%;
+  margin: auto;
+  border-radius: 10px;
+  background-color: rgb(186, 229, 215);
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 20px;
+  text-align: center;
+  align-items: center;
+  justify-content: space-around;
+  display: flex;
+}
+
+.inputdiv{
+  height: 50px;
+  width: 250px;
+  border-radius: 10px;
+  border: 1px solid teal;
+  color: rgb(7, 59, 59);
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.inputbttn{
+  height: 50px;
+  width: 50px;
+  border-radius: 10px;
+  border: 1px solid teal;
+  margin-left: 10px;
+}
+
+.radiobttn{
+  height: 25px;
+  width: 25px;
+  
+}
+
+.striked{
+  text-decoration: line-through;
+}
